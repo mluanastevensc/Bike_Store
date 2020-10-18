@@ -1,3 +1,3 @@
 # Bike_Store_Sales
-Python Analyses of a bike store
-This is a analyses from  https://www.freecodecamp.org/
+Bike store: Python Sales Analyses 
+Credit:  https://www.freecodecamp.org/
